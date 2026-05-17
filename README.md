@@ -14,9 +14,9 @@
 
 ## Skillsets:
 
-Programming :  Java, Javascript
-Databases: IBM DB2 Cloud
-Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
+-Programming : Java, Javascript
+-Databases: IBM DB2 Cloud
+-Tools: Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ---------------------------------------------------------------------------------------
 
