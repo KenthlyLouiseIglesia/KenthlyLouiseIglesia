@@ -14,6 +14,11 @@
 
 ## Skillsets:
 
-- **HTML:** ⭐⭐⭐⭐⭐⭐⭐⭐ (8/10)
-- **CSS:** ⭐⭐⭐⭐⭐⭐⭐ (7/10)
-- **Javascript:** ⭐⭐⭐⭐⭐⭐⭐⭐ (8/10)
+Programming :  Java, Javascript
+Databases: IBM DB2 Cloud
+Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
+
+---------------------------------------------------------------------------------------
+
+## You may reach me at:
+Email. kenthlylouiseiglesia@gmail.com
